@@ -1,4 +1,4 @@
-# Abdulbaki Aşur – AI & Data Science Specialist | Mathematician by Heart
+# Abdulbaki Aşur – AI & Data Science Specialist | Mathematician
 
 🎓 Mathematics M.Sc. | 🧠 AI & Advanced Analytics | 🛠️ 10+ Production-Ready Projects  
 📍 Based in Türkiye | 🌐 Open to Remote/Freelance Collaborations
@@ -87,7 +87,7 @@ My strength lies in designing **end-to-end ML pipelines**, blending **mathematic
 - Contributed to measurable improvements in customer satisfaction  
 - 🎖️ Won 2 national AI awards in 2024
 
-**Tech:** Python, Transformers, LSTM/GRU, Text Classification
+**Tech:** Python, Transformers, Data Mining, Text Classification
 
 ---
 
