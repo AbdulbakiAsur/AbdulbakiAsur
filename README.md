@@ -70,8 +70,9 @@ Developed an object detection model (Faster R-CNN) for extracting invoices from 
 ## 📩 Let's Connect
 🧠 Open to:  
 
-📧 Email: abdulbakiasur17@gmail.com 
-🌐 LinkedIn: [linkedin.com/in/abdulbaki-asur](https://linkedin.com/in/abdulbakiasur/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abdulbakiasur)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?logo=gmail)](mailto:abdulbakiasur17@gmail.com)
 - **Languages:** Python (main), SQL
 ---
 
