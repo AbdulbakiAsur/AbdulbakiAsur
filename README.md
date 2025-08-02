@@ -67,17 +67,10 @@ Developed an object detection model (Faster R-CNN) for extracting invoices from 
 - NLP & classification tasks  
 - Long-term consulting collaborations  
 - **Mathematics:** Linear Algebra, Probability, Optimization  
-## 📩 Let's Connect
-🧠 Open to:  
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abdulbakiasur)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?logo=gmail)](mailto:abdulbakiasur17@gmail.com)
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdulbakiasur">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:abdulbaki@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?logo=gmail" alt="Email">
-  </a>
-</p>
 - **Languages:** Python (main), SQL
 ---
 
