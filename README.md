@@ -30,7 +30,7 @@ My strength lies in designing **end-to-end ML pipelines**, blending **mathematic
 ### 🧠 Smart Email Routing System  
 Developed a deep learning model that classifies and forwards internal corporate emails automatically.
 
-- Reduced email triage time by ~10%  
+- Reduced email triage time by ~40%  
 - Enhanced internal communication flow across multiple departments
 
 **Tech:** Python, Transformers, NLP, Deep Learning
