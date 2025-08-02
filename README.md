@@ -72,6 +72,7 @@ Developed an object detection model (Faster R-CNN) for extracting invoices from 
   <a href="https://linkedin.com/in/abdulbakiasur">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
+  
   <a href="mailto:abdulbakiasur17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?logo=gmail" alt="Email">
   </a>
